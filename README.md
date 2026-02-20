@@ -1,17 +1,21 @@
-# Matemáticas Inteligentes Patrones
+# Matemáticas Inteligentes
 
-## Description
-Este proyecto se centra en el desarrollo de algoritmos y métodos para el análisis de patrones matemáticos. Utilizando técnicas de inteligencia artificial y análisis de datos, buscamos facilitar la comprensión y el uso de principios matemáticos en diversas aplicaciones.
+## Proyecto Overview
+Este proyecto se centra en el desarrollo de habilidades matemáticas a través de patrones inteligentes. Está diseñado para educadores y estudiantes de grados 4 a 5, ofreciendo recursos prácticos y materiales educativos para mejorar el aprendizaje.
 
-## Objectives
-- Desarrollar algoritmos eficientes para el análisis de patrones.
-- Implementar técnicas de inteligencia artificial para la identificación y predicción de patrones matemáticos.
-- Proporcionar una interfaz de usuario sencilla para que los usuarios interactúen con los algoritmos.
-- Fomentar la educación en matemáticas a través de herramientas interactivas.
+### Estructura del Proyecto
 
-## Structure
-- `src/`: Contiene el código fuente del proyecto.
-- `data/`: Datos utilizados y generados durante el análisis.
-- `tests/`: Conjunto de pruebas para asegurar la funcionalidad del código.
-- `docs/`: Documentación del proyecto, incluyendo guías y tutoriales.
-- `examples/`: Ejemplos de uso de los algoritmos desarrollados.
+- `02-materiales-educativos`: Recursos para cada fase de aprendizaje.
+- `03-ejercicios-practicos`: Ejemplos y hojas de trabajo.
+- `04-rubricas-evaluacion`: Criterios y listas de verificación para la evaluación.
+- `05-prompts-ia`: Prompts para interactuar con herramientas de IA.
+- `06-recursos-visuales`: Referencias y plantillas visuales.
+- `07-guias-docentes`: Guías para los educadores.
+- `08-ejemplos-solucionados`: Ejemplos matemáticos resueltos.
+- `09-adaptaciones-diversidad`: Estrategias de diferenciación.
+- `10-integraciones`: Recursos de plataformas externas.
+
+Por favor, contribuye al proyecto siguiendo las directrices en `CONTRIBUIR.md`. 
+
+### Contacto
+Para preguntas o colaboraciones, por favor contacta a los administradores del proyecto.
